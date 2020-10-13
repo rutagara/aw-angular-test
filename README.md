@@ -8,6 +8,10 @@ Example : "John Doe is 34 years old"
 
 ## Useful links:
 
+https://angular.io/guide/reactive-forms
+
+https://material.angular.io/components/form-field/overview
+
 https://material.angular.io/components/datepicker/overview
 
 https://material.angular.io/components/snack-bar/overview
